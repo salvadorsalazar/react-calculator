@@ -8,3 +8,34 @@ body{
     margin:0;
     background: linear-gradient(to right,#00aaff,#00ff6c);
 }
+
+.calculator-grid{
+    display: grid;
+    margin-top: 2rem;
+    grid-template-columns: repeat(4,6rem);
+    grid-template-rows: minmax(7rem,auto)//auto lets number dislyed grow
+    ;
+}
+.span-two{
+    grid-column: span 2;
+
+}
+
+.ouput{
+    grid-column: 1/-1;
+    background-color: rgba(0,0 , 0, .75);
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.output-previous-operand{
+    color: rgba(255,255,255,.75,);
+    font-size: 1.5rem;
+}
+
+.output-current-operand{
+    color: white;
+font-size: 2.5;
+}
