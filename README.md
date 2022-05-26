@@ -4,5 +4,5 @@ https://salvadorsalazar.github.io/react-calculator
 
 
 <div id="header" align="center">
-  <img src="https://salvadorsalazar.github.io/react-calculator/" width="100"/>
+  <img src="[https://salvadorsalazar.github.io/react-calculator/](https://github.com/salvadorsalazar/react-calculator/blob/main/src/Screen%20Shot%202022-05-25%20at%209.01.33%20PM.png)" width="100"/>
 </div>
