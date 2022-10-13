@@ -1,5 +1,5 @@
 basic calculator using react
-
+<!--updatese applioed  -->
 https://salvadorsalazar.github.io/react-calculator
 
 
